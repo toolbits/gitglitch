@@ -1,7 +1,7 @@
 gitglitch
 =========
 
-&lt;WARNING> remove everything on your git repository and push --force !
+&lt;WARNING> remove everything on your git repository and push it --force !
 <br/>
 This program erases the contents of your git repository as:<br/>
 <br/>
