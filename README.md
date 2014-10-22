@@ -6,7 +6,7 @@ gitglitch
 This program erases the contents of your git repository as:<br/>
 <br/>
 git rm -rf *<br/>
-git commit -m "本当にすみません"<br/>
+git commit -m "ほんとすみません><"<br/>
 git push --force<br/>
 <br/>
 &lt;WARNING> DONT USE THIS PROGRAM UNLESS YOU UNDERSTAND THE OPERATION OF THIS PROGRAM.<br/>
