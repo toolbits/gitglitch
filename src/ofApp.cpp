@@ -79,7 +79,7 @@ void ofApp::update(void)
                             if (system(NULL) != 0) {
                                 _cmd = dir.getAbsolutePath();
                                 ofStringReplace(_cmd, " ", "\\ ");
-                                _cmd = "cd " + _cmd + " 2>&1; git rm -rf * 2>&1; git commit -m \"本当にすみません ><\" 2>&1; git push --force 2>&1;";
+                                _cmd = "cd " + _cmd + " 2>&1; git rm -rf * 2>&1; git commit -m \"ほんとすみません><\" 2>&1; git push --force 2>&1;";
                                 startThread();
                             }
                         }
