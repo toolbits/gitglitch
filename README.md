@@ -9,6 +9,6 @@ git rm -rf *<br/>
 git commit -m "本当にすみません"<br/>
 git push --force<br/>
 <br/>
-<WARNING> DONT USE THIS PROGRAM UNLESS YOU UNDERSTAND THE OPERATION OF THIS PROGRAM.<br/>
-<警告> 動作をよく理解しないうちに実行しないでください。<br/>
+&lt;WARNING> DONT USE THIS PROGRAM UNLESS YOU UNDERSTAND THE OPERATION OF THIS PROGRAM.<br/>
+&lt;警告> 動作をよく理解しないうちに実行しないでください。<br/>
 
